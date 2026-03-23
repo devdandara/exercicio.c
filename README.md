@@ -1,7 +1,7 @@
 
 ## Sistema de Compra Simples
 
-Desenvolvido por em dupla
+Desenvolvido em dupla
 
 ---
 
