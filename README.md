@@ -1,7 +1,8 @@
 
 ## Sistema de Compra Simples
 
-Desenvolvido em dupla
+Dandara Soares
+Anna Rostirolla
 
 ---
 
