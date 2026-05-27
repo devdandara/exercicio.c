@@ -1,7 +1,7 @@
 
 ## Sistema de Compra Simples
 
-Dandara Soares.
+Dandara Soares
 
 Anna Rostirolla
 
